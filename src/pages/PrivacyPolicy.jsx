@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
             <div className="row justify-content-center py-5">
               <div className="col-lg-10 pt-lg-5 mt-lg-5 text-center">
                 <h1 className="display-3 text-white animated slideInDown">
-                  Privacy-Policy
+                  Privacy Policy
                 </h1>
                 <nav aria-label="breadcrumb">
                   <ol className="breadcrumb justify-content-center">
@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
                       className="breadcrumb-item text-white active"
                       aria-current="page"
                     >
-                      Privacy-Policy
+                      Privacy Policy
                     </li>
                   </ol>
                 </nav>
@@ -85,13 +85,13 @@ const PrivacyPolicy = () => {
                 <p>If you have any questions, contact us at:</p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> lalitatourt@gmail.com
+                    <strong>Email:</strong> uttamshg@gmail.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 060011 92977
+                    <strong>Phone:</strong> +91 9485004706
                   </li>
                   <li>
-                    <strong>Address:</strong> H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014
+                    <strong>Address:</strong> HVHQ+8MQ, near Oriental House, Khyndailad, Police Bazar, Shillong, Meghalaya - 793001
                   </li>
                 </ul>
               </Card>

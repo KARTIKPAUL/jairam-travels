@@ -54,10 +54,10 @@ function About() {
               About Us
             </h6>
             <h1 className="mb-4">
-              Welcome to <span className="text-primary">Lalita travel</span>
+              Welcome to <span className="text-primary">Jairam travel</span>
             </h1>
             <p className="mb-4">
-            Discover the world with Lalita Travel! 30+ years of expertise in crafting your dream journeys across India and exotic foreign destinations.
+            Discover the world with Jairam Travel! 30+ years of expertise in crafting your dream journeys across India and exotic foreign destinations.
             </p>
             <p className="mb-4">
             Your trip, your plan – our experience. Explore with the most trusted travel agency from North Bengal.You can explore Meghalaya · Assam · West Bengal · Gauhati, Assam, India · Kolkata, West Bengal, India · Sikkim · Rajasthan · Cooch Behar, West Bengal, India · Shillong, Meghalaya, India · Arunachal Pradesh

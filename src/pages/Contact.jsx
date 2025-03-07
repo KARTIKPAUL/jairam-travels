@@ -51,7 +51,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Office</h5>
-                <p className="mb-0">H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014</p>
+                <p className="mb-0">HVHQ+8MQ, near oirantal house, Khyndailad, Police Bazar, Shillong, Meghalaya - 7930014</p>
               </div>
             </div>
             <div className="d-flex align-items-center mb-4">
@@ -63,7 +63,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Mobile</h5>
-                <p className="mb-0">060011 92977</p>
+                <p className="mb-0">+91 9485004706</p>
               </div>
             </div>
             <div className="d-flex align-items-center">
@@ -75,14 +75,15 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Email</h5>
-                <p className="mb-0">lalitatourt@gmail.com</p>
+                <p className="mb-0">uttamshg@gmail.com</p>
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          
           <iframe 
               className="position-relative rounded w-100 h-100"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3563.2459519233764!2d91.69119397542988!3d26.157920076983515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375a598c54a7c49d%3A0x7e87c6b97c7e7887!2sJalukbari%2C%20Guwahati%2C%20Assam%20781014!5e0!3m2!1sen!2sin!4v1741254225729!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.7993148577557!2d91.88661497539427!3d25.578342677467496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37507f5648797d1b%3A0x9f05eda0590d73c2!2sJai%20ram%20travels%20Meghalaya!5e0!3m2!1sen!2sin!4v1741326364248!5m2!1sen!2sin"
               frameBorder={0}
               style={{ minHeight: 300, border: 0 }}
               allowFullScreen=""

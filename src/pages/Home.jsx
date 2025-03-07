@@ -12,7 +12,7 @@ export default function Home() {
                 Enjoy Your Vacation With Us
               </h1>
               <p className="fs-4 text-white mb-4 animated slideInDown">
-                <span className="text-primary">Lalita Travel</span> A
+                <span className="text-primary">Jairam Travel</span> A
                 Trustable And Comforatbel Journey For You
               </p>
               <div className="position-relative w-75 mx-auto animated slideInDown">
@@ -57,10 +57,10 @@ export default function Home() {
               </h6>
               <h1 className="mb-4">
                 Welcome to{" "}
-                <span className="text-primary">LalitaTrave</span>
+                <span className="text-primary">JairamTravel</span>
               </h1>
               <p className="mb-4">
-                Discover the world with LalitaTrave! 30+ years of
+                Discover the world with JairamTravel! 30+ years of
                 expertise in crafting your dream journeys across India and
                 exotic foreign destinations.
               </p>

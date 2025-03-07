@@ -74,13 +74,13 @@ const TermsConditions = () => {
                 <p>If you have any questions, contact us at:</p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> lalitatourt@gmail.com
+                    <strong>Email:</strong> uttamshg@gmail.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 060011 92977
+                    <strong>Phone:</strong> +91 9485004706
                   </li>
                   <li>
-                    <strong>Address:</strong> H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014
+                    <strong>Address:</strong> HVHQ+8MQ, near Oriental House, Khyndailad, Police Bazar, Shillong, Meghalaya - 793001
                   </li>
                 </ul>
               </Card>

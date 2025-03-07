@@ -67,9 +67,9 @@ const CookiesPolicy = () => {
                 <h4>6. Contact Us</h4>
                 <p>If you have any questions about our Cookies Policy, contact us at:</p>
                 <ul>
-                  <li><strong>Email:</strong> lalitatourt@gmail.com</li>
-                  <li><strong>Phone:</strong> 060011 92977</li>
-                  <li><strong>Address:</strong> H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014</li>
+                  <li><strong>Email:</strong> uttamshg@gmail.com</li>
+                  <li><strong>Phone:</strong> +91 9485004706</li>
+                  <li><strong>Address:</strong> HVHQ+8MQ, near Oriental House, Khyndailad, Police Bazar, Shillong, Meghalaya - 793001</li>
                 </ul>
               </Card>
             </Col>

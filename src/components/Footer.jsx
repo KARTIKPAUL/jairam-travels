@@ -36,21 +36,21 @@ export default function Footer() {
             <h4 className="text-white mb-3">Contact</h4>
             <p className="mb-2">
               <i className="fa fa-map-marker-alt me-3" />
-              H/N-11, NH-27, Sundarbari , Jalukbari, Guwahati ,Assam 781012, Guwahati, Assam 781014
+              HVHQ+8MQ, near oirantal house, Khyndailad, Police Bazar, Shillong, Meghalaya - 793001
             </p>
             <p className="mb-2">
               <i className="fa fa-phone-alt me-3" />
-              060011 92977
+              +91 9485004706
             </p>
             <p className="mb-2">
               <i className="fa fa-envelope me-3" />
-              lalitatourt@gmail.com
+              uttamshg@gmail.com
             </p>
             <div className="d-flex pt-2">
               <a className="btn btn-outline-light btn-social" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/p/Lalita-Tour-Travels-100095492700914/">
+              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/profile.php?id=61565435531175#">
                 <i className="fab fa-facebook-f" />
               </a>
               <a className="btn btn-outline-light btn-social" href="">
@@ -136,7 +136,7 @@ export default function Footer() {
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
               ©{" "}
               <a className="" href="#">
-                LalitaTrvel
+                JairamTrvel
               </a>
               , 2025 All Right Reserved.
               {/* Designed By{" "} */}

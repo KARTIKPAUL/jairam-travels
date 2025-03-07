@@ -34,7 +34,7 @@ const Help = () => {
               <Card className="shadow p-4">
                 <h2 className="text-center text-primary mb-4">How Can We Help?</h2>
                 <p>
-                  At <strong>Lalita Tour & Travels</strong>, we are dedicated to providing excellent customer support. Below, you will find answers to some of the most frequently asked questions.
+                  At <strong>Jairam Travel Agency Shillong</strong>, we are dedicated to providing excellent customer support. Below, you will find answers to some of the most frequently asked questions.
                 </p>
 
                 <h4>1. How do I make a booking?</h4>
@@ -58,13 +58,13 @@ const Help = () => {
                 </p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> lalitatourt@gmail.com
+                    <strong>Email:</strong> uttamshg@gmail.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 060011 92977
+                    <strong>Phone:</strong> +91 9485004706
                   </li>
                   <li>
-                    <strong>Address:</strong> H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014
+                    <strong>Address:</strong> HVHQ+8MQ, near Oriental House, Khyndailad, Police Bazar, Shillong, Meghalaya - 793001
                   </li>
                 </ul>
 

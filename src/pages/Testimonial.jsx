@@ -5,40 +5,40 @@ import "slick-carousel/slick/slick-theme.css";
 
 const testimonials = [
   {
-    name: "Dharmendra Singh",
+    name: "RATNADEEP CHAKRABORTY",
     location: "Thiland",
     img: "assets/img/testimonial-2.jpg",
-    text: "We had a great and memorable trip of Assam and Meghalay through Lalita Tour and Travels. Uma Prasad helped us plan the itinerary and provided a good car with a very skillful, helpful and cooperative driver and guide, Kishor Burman",
+    text: "I had a fantastic experience with Jai Ram Travels in Meghalaya! Traveled with my family, including elderly members, and everything was well-managed. The driver, Uttam Babu, was extremely reliable, drove safely.",
   },
   {
-    name: "Kuldeep Srivastava",
+    name: "Pratibhangshu Chakraborti",
     location: "India",
     img: "assets/img/testimonial-2.jpg",
-    text: "It was a very good experience travelling with Lalita tour and travels Guwahati. The overall tour management for Assam,Meghalaya and arunachal was beyond comparison. Good food nice hotel stay and covering all important  points of  sight",
+    text: "The driver's behaviour is very amicable. Punctuality is also commendable. The journey was comfortable too. We had a trip in Shillong for five days from Guwahati airport to Shillong and back to Guwahati Airport.",
   },
   {
-    name: "Sayan Maiti",
+    name: "Satyajit Chaudhuri",
     location: "Inida",
     img: "assets/img/testimonial-3.jpg",
-    text: "Booked a traveller from Uma Prasad(Operator) for Meghalaya Trip at a very cheap price. The driver Shiba is also good and skilled. The vehicle is brand new. So the sound system and hand rest is not available now.",
+    text: "Travelling North East becomes more cheerful when you have Uttam da as your guide. Loved the service, Highly recommended.",
   },
   {
-    name: "ashwini jena",
+    name: "Aroohi Swamy",
     location: "India",
     img: "assets/img/testimonial-4.jpg",
-    text: "Recently we have travelled to Assam and Meghalaya through Lalita Tour and travels.such a good arrangement by Uma Da and driver munna bhaiya is also nice humble person.Thank u so much Lalita and travels team.",
+    text: "Jai ram travels provides great service and we are very safely traveled and driver also very good we suggest you to travel we traveled Assam, Arunachal pradesh, Guwahati and Meghalya this all states",
   },
   {
-    name: "Ashim Maity",
+    name: "nagenter tarun",
     location: "India",
     img: "assets/img/testimonial-3.jpg",
-    text: "Mr.Uma Prasad a real gentleman very well organised the tour and in terms of car services excellent. Will recommend all to choose their car rental and consider them as your travel partner.",
+    text: "It was a nice experience and the driving is also very good.The places were also very good and experienced beautiful places. The service is also very good.Loved it",
   },
   {
-    name: "KEKA ASH",
+    name: "Trishna Chakraborty",
     location: "India",
     img: "assets/img/testimonial-4.jpg",
-    text: "Excellent place,all around greenery,very neat,no garbages around. Our driver Justin Govinda was very friendly,cared for  our needs,helped us in all possible ways to make our trip a memorable one Thank you",
+    text: "Excellent place,all around greenery,very neat,no garbages around. Our driver was very friendly,cared for  our needs,helped us in all possible ways to make our trip a memorable one Thank you",
   },
 ];
 

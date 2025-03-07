@@ -29,16 +29,16 @@ function Header() {
           >
             <small className="me-3 text-light">
               <i className="fa fa-map-marker-alt me-2" />
-            Guwahati, Assam 781014
+              Shillong, Meghalaya - 793001
             </small>
             <small className="me-3 text-light">
               <i className="fa fa-phone-alt me-2" />
-              060011 92977
+              +91 9485004706
             </small>
             <small className="text-light">
               <i className="fa fa-envelope-open me-2" />
               
-              lalitatourt@gmail.com
+              uttamshg@gmail.com
             </small>
           </div>
         </div>
@@ -55,7 +55,7 @@ function Header() {
             </a>
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-              href="https://www.facebook.com/p/Lalita-Tour-Travels-100095492700914/"
+              href="https://www.facebook.com/profile.php?id=61565435531175#"
             >
               <i className="fab fa-facebook-f fw-normal" />
             </a>
@@ -88,7 +88,7 @@ function Header() {
         <Link to="/" className="navbar-brand p-0">
           <h1 className="text-primary m-0">
             <i className="fa fa-map-marker-alt me-3" />
-            LalitaTravel
+            JairamTravel
           </h1>
           {/* <img src="img/logo.png" alt="Logo"> */}
         </Link>
